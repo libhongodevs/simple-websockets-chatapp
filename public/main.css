@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+div.chat-wrapper {
+    min-height: 5vh;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid lightgray;
+}
+
+div.actions {
+    display: flex;
+    flex-direction: column;
+}
+
+div.message-box {
+    border: 1px solid lightgray;
+    min-height: 25vh;
+    background-color: #F2F1EF;
+}
+
+button#sendMsg, input#message {
+    margin-top: 1rem;
+}
