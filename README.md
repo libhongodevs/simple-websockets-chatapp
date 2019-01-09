@@ -1,4 +1,4 @@
-Clone or download the project and then run "npm install" to load all the necessary packages.
+Clone or download the project and then run "npm install" to ensure loading of all the necessary packages.
 
 
 Initiate a local server instance by running "node server" and you can then open several tabs in your browser (that resemble individual users) by visiting http://localhost:5000.
